@@ -25,7 +25,7 @@ public class App {
     {
  
       log.debug("Let's inspect the beans provided by Spring Boot->");
- 
+      log.debug("Susant");
       String[] beanNames = ctx.getBeanDefinitionNames();
       Arrays.sort(beanNames);
       for (String beanName : beanNames) {
