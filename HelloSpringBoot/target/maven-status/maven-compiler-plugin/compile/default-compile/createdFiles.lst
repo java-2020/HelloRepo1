@@ -1,0 +1,7 @@
+com/socialcoding/learn/hellospringboot/App.class
+com/socialcoding/learn/controller/WebController.class
+com/socialcoding/learn/jpa/model/CustomerRepository.class
+com/socialcoding/learn/hellospringboot/AddController.class
+com/socialcoding/learn/client/SpringJpaPostgreSqlApplication.class
+com/socialcoding/learn/hellospringboot/HelloRestController.class
+com/socialcoding/learn/jpa/model/Customer.class
